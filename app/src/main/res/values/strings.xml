@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Avtomobillərin İdxal Rüsumunun Hesablanması</string>
+    <string name="action_about">Haqqında</string>
+    <string name="action_veten">Vətəndaşların nəzərinə</string>
+    <string name="title_activity_veten">VetenActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_array">
+        <item>İstehsal-buraxılış tarixindən 1 ilədək (yeniləri)</item>
+        <item>İstehsal-buraxılış tarixindən 1 ildən çox ötmüş</item>
+    </string-array>
+</resources>

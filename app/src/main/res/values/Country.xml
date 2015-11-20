@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="county_array">
+        <item>Almaniya</item>
+        <item>Belarus</item>
+        <item>Moldova Respublikası</item>
+        <item>Gürcüstan</item>
+        <item>Qazaxıstan</item>
+        <item>Qırğızıstan</item>
+        <item>Rusiya Federasiyası</item>
+        <item>Tacikistan</item>
+        <item>Ukrayna</item>
+        <item>Əfqanıstan</item>
+        <item>Əlcəzair</item>
+        <item>Aland adaları</item>
+        <item>Albaniya</item>
+        <item>Amerika Birləşmiş Ştatları</item>
+        <item>Amerika Samoası</item>
+        <item>Andorra</item>
+        <item>Anqilya (Britaniya)</item>
+        <item>Anqola</item>
+        <item>Antarktika</item>
+        <item>Antiqua və Barbuda</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Avstraliya</item>
+        <item>Avstriya</item>
+        <item>Azərbaycan</item>
+        <item>Baham adaları</item>
+        <item>Banqladeş</item>
+        <item>Barbados</item>
+        <item>Belçika</item>
+        <item>Beliz</item>
+        <item>Benin</item>
+        <item>Bermud adaları</item>
+        <item>Bəhreyn</item>
+        <item>Birləşmiş Ərəb Əmirlikləri</item>
+        <item>Birləşmiş Tanzaniya Respublikası</item>
+        <item>Boliviya</item>
+        <item>Bolqarıstan</item>
+        <item>Boneyr, Sent-Estatius və Saba</item>
+        <item>Bosniya və Herseqovina</item>
+        <item>Botsvana</item>
+        <item>Böyük Britaniya</item>
+        <item>Braziliya</item>
+        <item>Bruney-Darüssalam</item>
+        <item>Burkina-Faso</item>
+        <item>Burundi</item>
+        <item>Butan</item>
+        <item>Buve</item>
+        <item>Cersi adası</item>
+        <item>Cəbəllütariq</item>
+        <item>Cənubi Afrika Respublikası</item>
+        <item>Cənubi Sudan</item>
+        <item>Cibuti</item>
+        <item>Constonatoll</item>
+        <item>Çad</item>
+        <item>Çexiya Respublikası</item>
+        <item>Çili</item>
+        <item>Çin</item>
+        <item>Danimarka</item>
+        <item>Dominika</item>
+        <item>Dominikan Respublikası</item>
+        <item>Ekvador</item>
+        <item>Ekvatorial Qvineya</item>
+        <item>Eritreya</item>
+        <item>Ermənistan</item>
+        <item>Estoniya</item>
+        <item>Farer adaları</item>
+        <item>Fici</item>
+        <item>Filippin</item>
+        <item>Finlandiya</item>
+        <item>>Folklend (Malvin) adaları</item>
+        <item>Fransa</item>
+        <item>Fransa Polineziyası</item>
+        <item>Fransa Qvianası</item>
+        <item>Fransız Cənub Əraziləri</item>
+        <item>Haiti</item>
+        <item>Herd və Makdonald</item>
+        <item>Hernsi adası</item>
+        <item>Həbəşistan</item>
+        <item>Hind okean Brit. ərazisi</item>
+        <item>Hindistan</item>
+        <item>Honduras</item>
+        <item>Honkong (Çin)</item>
+        <item>İndoneziya</item>
+        <item>İordaniya</item>
+        <item>İraq</item>
+        <item>İran İslam Respublikası</item>
+        <item>İrlandiya</item>
+        <item>İslandiya</item>
+        <item>İspaniya</item>
+        <item>İsrail</item>
+        <item>İsveç</item>
+        <item>İsveçrə</item>
+        <item>İşğal olunmuş Fələstin əraziləri</item>
+        <item>İtaliya</item>
+        <item>Kabo-Verde</item>
+        <item>Kamboca</item>
+        <item>Kamerun</item>
+        <item>Kanada</item>
+        <item>Kayman adaları</item>
+        <item>Keniya</item>
+        <item>Kiçik Sakit okean</item>
+        <item>Kipr</item>
+        <item>Kiribati</item>
+        <item>Kolumbiya</item>
+        <item>Konqo</item>
+        <item>Konqo Demokratik Respublikası</item>
+        <item>Koreya (KXDR)</item>
+        <item>Koreya Respublikası</item>
+        <item>Kosta-Rika</item>
+        <item>Kot-divuar</item>
+        <item>Kuba</item>
+        <item>Kuk adaları (Yeni Zelandiya)</item>
+        <item>Kurasao</item>
+        <item>Küveyt</item>
+        <item>Laos (LXDR)</item>
+        <item>Latviya</item>
+        <item>Lesoto</item>
+        <item>Liberiya</item>
+        <item>Litva</item>
+        <item>Livan</item>
+        <item>Liviya</item>
+        <item>Lixtenşteyn</item>
+        <item>Lüksemburq</item>
+        <item>Macarıstan</item>
+        <item>Madaqaskar</item>
+        <item>Makao (Çin)</item>
+        <item>Makedoniya (KYR)</item>
+        <item>Malavi</item>
+        <item>Malayziya</item>
+        <item>Maldiv adaları</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marşal adaları</item>
+        <item>Martinika</item>
+        <item>Mavrikiya</item>
+        <item>Mavritaniya</item>
+        <item>Meksika</item>
+        <item>Meyot</item>
+        <item>Mən adası</item>
+        <item>Mərakeş</item>
+        <item>Mərkəzi Afrika Respublikası</item>
+        <item>Mikroneziya Federativ Ştatları</item>
+        <item>Milad adaları</item>
+        <item>Misir</item>
+        <item>Monako</item>
+        <item>Monqolustan</item>
+        <item>Monteneqro</item>
+        <item>Montserrat</item>
+        <item>Mozambik</item>
+        <item>Müqəddəs Yelena Adası</item>
+        <item>Myanma</item>
+        <item>Namibiya</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Niderland</item>
+        <item>Niderland Antil adaları</item>
+        <item>Niger</item>
+        <item>Nigeriya</item>
+        <item>Nikaraqua</item>
+        <item>Niue (Yeni Zelandiya)</item>
+        <item>Norfolk adası (Avstraliya)</item>
+        <item>Norveç</item>
+        <item>Oman</item>
+        <item>Qabon</item>
+        <item>Qambiya</item>
+        <item>Qana</item>
+        <item>Qayana</item>
+        <item>Qətər</item>
+        <item>Qəza bölgəsi</item>
+        <item>Qrenada</item>
+        <item>Qrenlandiya</item>
+        <item>Quam (ABŞ)</item>
+        <item>Qvadelupa (Fransa)</item>
+        <item>Qvatemala</item>
+        <item>Qvineya</item>
+        <item>Qvineya-Bissau</item>
+        <item>Özbəkistan</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palma adaları</item>
+        <item>Panama</item>
+        <item>Papua-Yeni Qvineya</item>
+        <item>Paraqvay</item>
+        <item>Peru</item>
+        <item>Pitkern (Britaniya)</item>
+        <item>Polşa</item>
+        <item>Portuqaliya</item>
+        <item>Puerto-Riko (ABŞ)</item>
+        <item>Qəmər adaları</item>
+        <item>Qərbi Saxara</item>
+        <item>Reyunyon (Fransa)</item>
+        <item>Ruanda</item>
+        <item>Rumıniya</item>
+        <item>Salvador</item>
+        <item>Samoa</item>
+        <item>San-Marino</item>
+        <item>San-Tome və Prinsipi</item>
+        <item>Seneqal</item>
+        <item>Sent-Bartelemi</item>
+        <item>Sent-Kits və Nevis</item>
+        <item>Sent-Lüsiya</item>
+        <item>Sent-Martin (Fransa)</item>
+        <item>Sent-Pyer və Mikelon</item>
+        <item>Sent-Vinsent və Qrenadin (Fransa)</item>
+        <item>Serbiya</item>
+        <item>Seyşel adaları</item>
+        <item>Səudiyyə Ərəbistanı</item>
+        <item>Sinqapur</item>
+        <item>Sint-Marten (Niderland)</item>
+        <item>Slovakiya</item>
+        <item>Sloveniya</item>
+        <item>Solomon adaları</item>
+        <item>Somali</item>
+        <item>Sudan</item>
+        <item>Surinam</item>
+        <item>Suriya Ərəb Respublikası</item>
+        <item>Svazilend</item>
+        <item>Syerra-Leone</item>
+        <item>Şimali Maryana adaları (ABŞ)</item>
+        <item>Şpisbergen və Yan-Mayen adaları</item>
+        <item>Şri-Lanka</item>
+        <item>Tailand</item>
+        <item>Tayvan</item>
+        <item>Timor-Leste</item>
+        <item>Tokelau (Yeni Zelandiya)</item>
+        <item>Tonqa</item>
+        <item>Toqo</item>
+        <item>Trinidad və Tobaqo</item>
+        <item>Tunis</item>
+        <item>Turk və Kaykos adaları</item>
+        <item>Tuvalu</item>
+        <item>Türkiyə</item>
+        <item>Türkmənistan</item>
+        <item>Uqanda</item>
+        <item>Uruqvay</item>
+        <item>Vanuatu</item>
+        <item>Vatikan</item>
+        <item>Venesuela</item>
+        <item>Virgin adaları (ABŞ)</item>
+        <item>Virgin adaları (Britaniya)</item>
+        <item>Vollis və Futuna adaları (Fransa)</item>
+        <item>Vyetnam</item>
+        <item>Xorvatiya</item>
+        <item>Yamayka</item>
+        <item>Yaponiya</item>
+        <item>Yeni Kaledoniya (Fransa)</item>
+        <item>Yeni Zelandiya</item>
+        <item>Yəmən</item>
+        <item>Yunanıstan</item>
+        <item>Yuqoslaviya</item>
+        <item>Zambiya</item>
+        <item>Zimbabve</item>
+    </string-array>
+</resources>
